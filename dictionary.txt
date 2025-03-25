@@ -1,4 +1,4 @@
-apple|a sweet fruit
+apple|A sweet fruit.
 bark|the outer covering of a tree
 bark|the sound a dog makes
 club|an association of people
@@ -16,9 +16,6 @@ light|not heavy
 light|electromagnetic radiation visible to the eye
 match|a contest between opponents
 mirror|a reflective surface
-oligarchy|government by the few
-oligarchy|a government in which a small group exercises control especially for corrupt and selfish purposes
-oligarchy|an organization under oligarchic control
 piano|a keyboard instrument
 pitch|a sticky resinous substance
 pitch|the quality of a musical note
